@@ -12,7 +12,7 @@ A modern Student Management System 👨‍🎓 with features like Interactive Da
 
 Checkout the live Website [here](https://student-management-system-4jym.onrender.com/)!
 
-Find the detailed project report [here](https://drive.google.com/file/d/1DTqbRJBoFuCHJdtb0SJwdiLgE6iOgjUG/view?usp=sharing)! 📜
+
 
 
 
@@ -121,33 +121,11 @@ If you want to use Docker to run this project, you need to do the following step
 
 ## Stargazers
 
-[![Stargazers](https://reporoster.com/stars/Akash1362000/Django_Student_Management_System)](https://github.com/Akash1362000/Django_Student_Management_System/stargazers)
+[![Stargazers[( ](https://github.com/kashyap4593-design/Student-Management-system)](https://github.com/kashyap4593-design/Student-Management-system))
 
-Liked our work? 🤔 Do star [this](https://github.com/Akash1362000/Django_Student_Management_System) repository ⭐ It'll motivate us more 😁
+Liked our work? 🤔 Do star(https://github.com/kashyap4593-design/Student-Management-system)) repository ⭐ It'll motivate us more 😁
 
----
-
-### License ✍
-
-```
-MIT License
-
-Copyright (c) 2020 Akash Shrivastava
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
